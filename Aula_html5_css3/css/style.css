@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    background: rgba(58, 78, 78, 0.87);
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+#block_list{
+    background-color: rgba(76, 97, 97, 0.87);
+    padding: 15px;
+}
+
+#lista{
+    margin-left: 70px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#title{
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(215, 227, 236);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: 22px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo{
+    width: 50px;
+}
